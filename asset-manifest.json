@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Spotify_Clone/static/css/main.4a2bee43.css",
+    "main.js": "/Spotify_Clone/static/js/main.32c4f76b.js",
+    "static/media/hiphop.jpg": "/Spotify_Clone/static/media/hiphop.1b31180f0fd6c39018fe.jpg",
+    "static/media/title1.jpg": "/Spotify_Clone/static/media/title1.3a83d86575ee56c0c8e3.jpg",
+    "static/media/pop.jpg": "/Spotify_Clone/static/media/pop.901e999e6f9a11e39679.jpg",
+    "static/media/jazz.jpg": "/Spotify_Clone/static/media/jazz.f248ca9015719a0f8df3.jpg",
+    "static/media/logospotify.png": "/Spotify_Clone/static/media/logospotify.8eef091b1fba251ca310.png",
+    "static/media/kangen3.jpg": "/Spotify_Clone/static/media/kangen3.a25021823bc01abc015f.jpg",
+    "static/media/st121.jpg": "/Spotify_Clone/static/media/st121.48977f973bfeeded8f2e.jpg",
+    "static/media/kangen1.jpg": "/Spotify_Clone/static/media/kangen1.c6782473309bddda9b72.jpg",
+    "static/media/st122.jpg": "/Spotify_Clone/static/media/st122.6ed9b6b2c895db167b6e.jpg",
+    "static/media/kangen5.jpg": "/Spotify_Clone/static/media/kangen5.e0900aacfe8304f94bd4.jpg",
+    "static/media/st123.jpg": "/Spotify_Clone/static/media/st123.a36516a17862fe80e32e.jpg",
+    "static/media/kangen2.jpg": "/Spotify_Clone/static/media/kangen2.e2905acd05714586e3ac.jpg",
+    "static/media/st125.jpg": "/Spotify_Clone/static/media/st125.a9e11558542d37ce7eb6.jpg",
+    "static/media/noah4.jpg": "/Spotify_Clone/static/media/noah4.c78700a8c10328b99125.jpg",
+    "index.html": "/Spotify_Clone/index.html",
+    "main.4a2bee43.css.map": "/Spotify_Clone/static/css/main.4a2bee43.css.map",
+    "main.32c4f76b.js.map": "/Spotify_Clone/static/js/main.32c4f76b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2bee43.css",
+    "static/js/main.32c4f76b.js"
+  ]
+}
